@@ -2,6 +2,10 @@
 
 An assessment prepared by Intern2Grow, for its Data Analyst Virtual Internship Program.
 
+## Certificate
+
+![1685546390034](image/README/1685546390034.png)
+
 ## Assessment Overview
 
 For this assessment, you will be given a small dataset and a set of questions to answer using that data. You will be expected to use your data analysis skills to answer the questions and present your findings in a clear and concise manner.
@@ -34,5 +38,3 @@ For each question, please provide the answer and any supporting calculations or 
 ## Submission Instructions
 
 Please submit your assessment as a report or presentation that includes your answers to the questions, any supporting calculations or visualizations, and a brief summary of your findings. You may also include any additional insights or observations that you think are relevant.
-
-Good luck!
